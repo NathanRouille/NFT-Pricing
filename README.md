@@ -53,9 +53,4 @@ These files are generated during runtime but are also stored for reproducibility
    pip install -r requirements.txt
    ```
 
-
-## Authors
-- Titouan Duhazé
-- Nathan Rouillé
-
-For more details, check the [Report](Report.pdf) and the [GitHub repository](https://github.com/titiuo/Normalized-Compression-Distances-for-NFT).
+For more details, check the [Report](Report.pdf)
